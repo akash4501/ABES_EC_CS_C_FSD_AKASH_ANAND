@@ -1,3 +1,4 @@
+// component->a js function which returns jsx
 import "./App.css";
 import productData from "./productData.json";
 
